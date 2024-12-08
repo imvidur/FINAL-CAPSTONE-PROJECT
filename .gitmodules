@@ -1,0 +1,6 @@
+[submodule "FRONTEND"]
+	path = FRONTEND
+	url = https://github.com/imvidur/FRONTEND-CAPSTONE.git
+[submodule "BACKEND"]
+	path = BACKEND
+	url = https://github.com/imvidur/BACKEND-CAPSTONE.git
